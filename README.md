@@ -1,10 +1,24 @@
-# Getting Started with Create React App
+# Noughts and Crosses
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
-## Available Scripts
+## Rules (2 Players) ❌ & ⭕
 
-In the project directory, you can run:
+Taking it in turns get three in a row of your kind.
+
+### How to play
+
+You will be presented with a grid of 9 squares take it in turns to select one of the squares (by clicking in it). When you have made three in a row of your kind either horizontially vertically or diagonally YOU WIN.
+
+The first players moves will be ❌ and the second players moves will be ⭕.
+
+###### Psssst Cheaters
+
+(I don't condone with this)
+
+You can see the moves played as they are done with the buttons next to the grid, you could use these buttons to go back to a stage when you were winning.
+
+<!-- In the project directory, you can run:
 
 ### `npm start`
 
@@ -67,4 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
