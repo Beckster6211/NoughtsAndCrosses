@@ -12,7 +12,7 @@ You will be presented with a grid of 9 squares take it in turns to select one of
 
 The first players moves will be ❌ and the second players moves will be ⭕.
 
-###### Psssst Cheaters
+##### Psssst Cheaters
 
 (I don't condone with this)
 
